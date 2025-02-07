@@ -342,6 +342,8 @@ DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
 
 
+# deepseek
+DOMAIN-SUFFIX,deepseek.com
 
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
