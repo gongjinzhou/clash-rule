@@ -36,3 +36,6 @@ IP-CIDR,208.67.220.220/32,no-resolve
 # cults3d
 DOMAIN-SUFFIX,cults3d.com
 IP-CIDR,9.9.9.9/53,no-resolve
+
+# makeronline
+DOMAIN-SUFFIX,makeronline.com
