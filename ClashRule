@@ -1,7 +1,7 @@
 ;规则集定义
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/gongjinzhou/clash-rule/refs/heads/main/Direct.list
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/gongjinzhou/clash-rule/refs/heads/main/ProxyLite.list
-ruleset=♻ 自动选择,https://raw.githubusercontent.com/gongjinzhou/clash-rule/refs/heads/main/ProxyLite.list
+ruleset=♻️ 自动选择,https://raw.githubusercontent.com/gongjinzhou/clash-rule/refs/heads/main/ProxyLite.list
 ruleset=AutoDesk,https://raw.githubusercontent.com/gongjinzhou/clash-rule/refs/heads/main/AutoDesk.list
 ruleset=🤖 AI,https://raw.githubusercontent.com/gongjinzhou/clash-rule/refs/heads/main/AI.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
