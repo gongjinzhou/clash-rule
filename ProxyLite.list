@@ -4,7 +4,6 @@
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,makeronline.com
 DOMAIN-SUFFIX,cults3d.com
-IP-CIDR,9.9.9.9/53,no-resolve
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
